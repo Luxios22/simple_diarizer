@@ -54,7 +54,7 @@ The following pretrained models are used:
 # Demo
 ## Diarize any input Youtube URL
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nMKHOTTROwQitOXQEYq35lvv7nyTOlpe?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cIUbyyZfOU7AsTpwEdSozATo9QCS14fz)
 
 ## Diarize any input wav file
 
