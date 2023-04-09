@@ -1,10 +1,15 @@
 # simple_diarizer
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nMKHOTTROwQitOXQEYq35lvv7nyTOlpe?usp=sharing)
-[![](https://shields.io/badge/Trello-simple__diarizer-blue?logo=Trello&style=flat)](https://trello.com/b/2ZN9ybC1/simplediarizer)
+### Install
 
-Simplified diarization pipeline using some pretrained models. 
+Simplified diarization is available on PyPI:
+
+```
+pip install simple-diarizer
+```
+
+### Usage
 
 Made to be a simple as possible to go from an input audio file to diarized segments.
 
@@ -31,20 +36,6 @@ plt.show()
   <img src="media/diarized_waveplot.png?raw=true">
 </p>
 
-### Install
-
-Simplified diarization is available on PyPI:
-
-```
-pip install simple-diarizer
-```
-
-### Source Video
-
-"[Some Quick Advice from Barack Obama!](https://youtu.be/I49VNQ6lmKk)"
-
-[![YouTube Thumbnail](https://img.youtube.com/vi/I49VNQ6lmKk/0.jpg)](https://www.youtube.com/watch?v=I49VNQ6lmKk)
-
 
 # Pre-trained Models
 
@@ -60,11 +51,14 @@ The following pretrained models are used:
      - [ESPnet Model Zoo](https://github.com/espnet/espnet_model_zoo)
         - English ASR model
 
-# **[Demo](https://colab.research.google.com/drive/1nMKHOTTROwQitOXQEYq35lvv7nyTOlpe?usp=sharing)**
+# Demo
+## Diarize any input Youtube URL
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nMKHOTTROwQitOXQEYq35lvv7nyTOlpe?usp=sharing)
 
-It can be checked out in the above link, where it will try and diarize any input YouTube URL.
+## Diarize any input wav file
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tG8TXxPDv9211bZcxhH6CTRKS6bsTRjA#scrollTo=R2kKRXLo9mJr)
 
 # Other References
 
