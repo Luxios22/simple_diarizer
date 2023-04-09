@@ -1,5 +1,5 @@
 # simple_diarizer
-
+Simplified diarization pipeline using some pretrained models.
 
 ### Install
 
